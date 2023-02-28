@@ -80,6 +80,7 @@ ul {
 
 .relative {
     position: relative;
+    top: 40px;
 }
 
 .relative-2 {
