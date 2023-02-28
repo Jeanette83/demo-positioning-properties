@@ -79,7 +79,7 @@ ul {
 }
 
 .relative {
-    /* add relative properties here */
+    position: relative;
 }
 
 .relative-2 {
