@@ -79,8 +79,12 @@ ul {
 }
 
 .relative {
+ 
+}
+
+.para {
     position: relative;
-    left:30px;
+    left:50px;
 }
 
 .relative-2 {
