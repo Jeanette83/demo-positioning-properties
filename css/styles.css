@@ -87,7 +87,7 @@ ul {
 
 
 .relative-2 {
-    /* add relative-2 properties here */
+    position: relative;
 }
 
 .absolute {
