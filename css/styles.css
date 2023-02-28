@@ -113,5 +113,5 @@ ul {
 }
 
 .fixed {
-    /* add fixed properties here */
+    position:fixed;
 }
