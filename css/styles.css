@@ -101,6 +101,9 @@ ul {
     height: 75px;
     border: 2px solid #a89070;
     /* add absolute-2 properties here */
+    position: absolute;
+    right: 0;
+    bottom: -10px;
 }
 
 .absolute-2 .box-paragraph {
