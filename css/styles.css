@@ -79,20 +79,21 @@ ul {
 }
 
 .relative {
- 
+    position: relative;
+    top:30px;
+    left: 30px;
+
 }
 
-.para {
-    position: relative;
-    left:50px;
-}
 
 .relative-2 {
     /* add relative-2 properties here */
 }
 
 .absolute {
-    /* add absolute properties here */
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 .absolute-2 {
